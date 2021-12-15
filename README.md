@@ -24,7 +24,7 @@ R or Python preferred
 **Instructions**:
 
 - Execute and present the data integrity checks you run before analyzing a new data set 
-- Merge the `Data_Science_Technical_FEC_Filing_Sample` data with the `Data Science_Technical_FEC_Committee_Data_2020.csv` data 
+- Merge the `Data_Science_Technical_FEC_Filing_Sample` data with the `Data Science_Technical_FEC_Committee_Data_2020` data 
 - Calculate how many donors gave to multiple federal committees?
 - Calculate how many donors gave multiple contributions 
 - Calculate the number of unique donors, committees, contributions in the sample data, along with the total dollars raised, and avg contribution size
