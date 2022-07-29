@@ -10,6 +10,8 @@ A sample of contribution data from ActBlue’s FEC filings:
 FEC committee data from the 2020 cycle:
   - `Data Science_Technical_FEC_Committee_Data_2020.csv` is derived from the Committee Master file for 2019-2020 provided on the [FEC Bulk Data page](https://www.fec.gov/data/browse-data/?tab=bulk-data).
 
+CSVs are available in google drive [here](https://drive.google.com/drive/folders/1oRlG_vfbuMLvTNzH4foMvRqX_xPjrqIV?usp=sharing)
+
 **Tools**:
 R or Python preferred 
 
