@@ -5,12 +5,11 @@
 **Materials**:
 
 A sample of contribution data from ActBlue’s FEC filings:
-  - `Data_Science_Technical_FEC_Filing_Sample.csv` is a sample of records derived from 3 of [ActBlue's monthly filings](https://www.fec.gov/data/committee/C00401224/?tab=filings&cycle=2020) in the 2020 cycle: [February Monthly 2020](https://docquery.fec.gov/cgi-bin/forms/C00401224/1385527/), [March Monthly 2020](https://docquery.fec.gov/cgi-bin/forms/C00401224/1391686/), [April Monthly 2020](https://docquery.fec.gov/cgi-bin/forms/C00401224/1402724/).
+  - [`Data_Science_Technical_FEC_Filing_Sample.csv`](https://drive.google.com/file/d/1IO8Tpzip90NwAKdA-VU0soaj2RyNFIk4/view?usp=sharing) is a sample of records derived from 3 of [ActBlue's monthly filings](https://www.fec.gov/data/committee/C00401224/?tab=filings&cycle=2020) in the 2020 cycle: [February Monthly 2020](https://docquery.fec.gov/cgi-bin/forms/C00401224/1385527/), [March Monthly 2020](https://docquery.fec.gov/cgi-bin/forms/C00401224/1391686/), [April Monthly 2020](https://docquery.fec.gov/cgi-bin/forms/C00401224/1402724/).
   
 FEC committee data from the 2020 cycle:
-  - `Data Science_Technical_FEC_Committee_Data_2020.csv` is derived from the Committee Master file for 2019-2020 provided on the [FEC Bulk Data page](https://www.fec.gov/data/browse-data/?tab=bulk-data).
+  - [`Data Science_Technical_FEC_Committee_Data_2020.csv`](https://drive.google.com/file/d/1qQ-tAEW9VVH-hyafndohCMQ87AKmhL6U/view?usp=sharing) is derived from the Committee Master file for 2019-2020 provided on the [FEC Bulk Data page](https://www.fec.gov/data/browse-data/?tab=bulk-data).
 
-CSVs are available in google drive [here](https://drive.google.com/drive/folders/1oRlG_vfbuMLvTNzH4foMvRqX_xPjrqIV?usp=sharing)
 
 **Tools**:
 R or Python preferred 
