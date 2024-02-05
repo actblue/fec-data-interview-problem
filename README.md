@@ -45,5 +45,6 @@ R or Python preferred
 **Instructions**:
 
 - Execute and present the data integrity checks you run before analyzing a new data set 
-- Merge the `Data_Science_Technical_FEC_Filing_Sample` data with the `Data Science_Technical_FEC_Committee_Data_2020` data 
+- Merge the `Data_Science_Technical_FEC_Filing_Sample` data with the `Data Science_Technical_FEC_Committee_Data_2020` data
+- Document and present any statistical analysis that you performed on this data 
 - Ask and answer one to two questions of your own to tell us an interesting story with this data! 
