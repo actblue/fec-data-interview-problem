@@ -48,4 +48,4 @@ R or Python preferred
 - Create a feature set
 - Choose an appropriate predictive model
 - Train the model and evaluate its performance
-- (Optional for all, required for Sr. level) Wrap the model if a very simple API (e.g. Flask, Docker)
+- (Optional for all, required for Sr. level) Wrap the model in a very simple API (e.g. Flask, Docker)
