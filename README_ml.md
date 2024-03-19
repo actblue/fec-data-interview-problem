@@ -1,4 +1,4 @@
-# Data Scientist Technical Assessment
+# Senior Data Scientist Technical Assessment
 
 ## Expectations
 
@@ -26,7 +26,7 @@
 
 
 ### Exercise Two: Model Building and Deployment
-**Objective**: Build a predictive model from ActBlue’s (publicly available) FEC filing
+**Objective**: Build a predictive model from ActBlue’s (publicly available) FEC filing - specifically predicting the contribution amount (using the available data or your transformations of it). Given the time constraints, best to keep things simple and explain any assumptions. Finally, encapsulate your model into a simple API to demonstrate comfort with deployment.
 
 **Materials**:
 A sample of contribution data from ActBlue’s FEC filings:
