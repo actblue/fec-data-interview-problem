@@ -42,7 +42,6 @@ R or Python preferred
 
 
 **Instructions**:
-
 - Execute and present the data integrity checks you run before analyzing a new data set 
 - Merge the `Data_Science_Technical_FEC_Filing_Sample` data with the `Data Science_Technical_FEC_Committee_Data_2020` data
 - Create a feature set
