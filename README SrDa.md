@@ -10,7 +10,6 @@
 
 
 
-
 ### Exercise One: SQL Refactor
 **Objective**: Refactor [this SQL Query](https://docs.google.com/document/d/17gBXAvGRIXUl9up7S794oHpLBQK6gIQw73u8eJSAB9M/edit?usp=sharing) so that it is easily readable by your teammates and fix any syntax errors you come across. 
 
