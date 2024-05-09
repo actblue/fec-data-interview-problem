@@ -39,7 +39,7 @@ Dataset #2: FEC committee data from the 2020 cycle:
 
 
 **Tools**:
-BI tool, R or Python preferred 
+Python or R (required) and BI tool 
 
 
 **Instructions**:
