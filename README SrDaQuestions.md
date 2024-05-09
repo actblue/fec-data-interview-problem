@@ -39,7 +39,7 @@ Dataset #2: FEC committee data from the 2020 cycle:
 
 
 **Tools**:
-BI tool, R or Python preferred 
+Python or R (required) and BI tool 
 
 
 **Instructions**:
@@ -48,5 +48,6 @@ BI tool, R or Python preferred
 - Merge the `Data_Science_Technical_FEC_Filing_Sample` data with the `Data Science_Technical_FEC_Committee_Data_2020` data
 - Document and present any statistical analysis that you performed on this data (e.g cohort analysis)
 - Using a BI tool of your choice visualize the FEC datasets. Then, ask and answer one to two questions of your own to tell us an interesting story with this data! 
+- When using a BI tool to build your dashboard, include screenshot along with dashboard attached to ensure we can open it upon delivery 
 
 **Suggested Time**: 90 minutes 
