@@ -1,4 +1,4 @@
-# Senior Data Analyst Technical Assessment
+# Senior Data Analyst / Data Scientist Technical Assessment
 
 ## Expectations
 
@@ -46,7 +46,7 @@ Python or R (required) and BI tool
 
 - Execute and present the data integrity checks you run before analyzing a new data set. Additionally, include details about ways that you cleaned the data before analyzing it.  
 - Merge the `Data_Science_Technical_FEC_Filing_Sample` data with the `Data Science_Technical_FEC_Committee_Data_2020` data
-- Document and present any statistical analysis that you performed on this data (e.g cohort analysis)
+- Document and present any statistical analysis that you performed on this data (e.g cohort analysis). For data science candidates, we do expect some demonstration of statistical knowledge
 - Using a BI tool of your choice visualize the FEC datasets. Then, ask and answer one to two questions of your own to tell us an interesting story with this data! 
 - When using a BI tool to build your dashboard, include screenshot along with dashboard attached to ensure we can open it upon delivery 
 
