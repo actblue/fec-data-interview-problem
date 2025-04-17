@@ -19,7 +19,7 @@ Exercise Part 1: SQL Refactor
 Exercise Part 2: Storytelling with Data
 
 - If using a data visualization tool: a link to data visualizations and analysis conducted or screenshots of visualization and analysis included in repo 
-- If using Python or R include notebook file for your analysis 
+- If using Python or R include notebook file for your analysis, OR an R or Python file with your code + comments to help us follow your work
 - In your repository's README file provide any additional context on the analysis you performed and any insights you found. Also provide a brief description of your analysis method of choice and how this may have helped you answer questions in this exercise. 
 
 
